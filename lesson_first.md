@@ -90,10 +90,6 @@ Markdown | Less | Pretty
 ## Заключение
 
 
-работа на семинаре
+На этом пока закончим с языко разметки Markdown.
 
-работа в github
-
-изменения в github
-
-Еще одно изменение на github
+commig soon
